@@ -1,0 +1,17 @@
+NON-DISCLOSURE AGREEMENT (MUTUAL)
+
+Effective Date: ___________
+
+Between:
+Chintu Thakkar / 3CHIN Holdings Inc. (“Company”)
+and ___________________________________ (“Recipient”)
+
+Recipient agrees not to disclose, copy, or use any proprietary information relating to
+the Chintu Legal Engine project without written consent.
+
+Confidential Information includes: source code, design docs, architecture, financial data, and business strategy.
+
+Term: 3 years from termination or project completion.
+
+Signed:
+_________________________      Date: __________
