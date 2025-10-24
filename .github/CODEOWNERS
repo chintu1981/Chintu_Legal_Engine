@@ -1,5 +1,5 @@
 # CODEOWNERS
 # Default owner (you). Replace with your GitHub handle.
-*       @your-github-handle
-/docs/  @your-github-handle
-/backend/ @your-github-handle
+*       @chintu1981
+/docs/  @chintu1981
+/backend/ @chintu1981

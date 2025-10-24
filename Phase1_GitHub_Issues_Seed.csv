@@ -1,0 +1,11 @@
+Title,Description,Labels,Assignee,Milestone,Priority
+Initialize repo & branches,Create `main` (protected) and `dev` branches. Configure branch protection on `main`.,"setup,repo",,Phase 1,P1
+Local environment setup,"Create virtualenv, install `backend/requirements.txt`, copy `.env.example` to `.env`.","setup,env",,Phase 1,P1
+Run API and add healthcheck screenshot,Run `uvicorn backend.api.main:app --reload` and hit `/health`. Add a screenshot to the repo Wiki or issue comment.,"backend,api",,Phase 1,P1
+Set up CI on GitHub,"Push repo, verify Actions run tests. Fix any failing tests in `backend/tests`.","ci,tests",,Phase 1,P1
+Draft security & privacy policy,"Create `docs/security_policy.md` with RBAC, data-classification, secret handling, and logging levels for dev/stage/prod.","security,docs",,Phase 1,P2
+Finalize Intake SOP v1,"Use the provided SOP starter; define intake fields, eligibility rules, and escalation steps. Store at `docs/sop_intake.md`.","ops,sop",,Phase 1,P1
+Eligibility script for Case Type A,Draft yes/no + date-bound questions for first target mass-tort. Deliver `docs/eligibility_caseA.md`.,"ops,intake",,Phase 1,P1
+Eligibility script for Case Type B,Repeat for second case type; ensure branching logic and disqualifiers. Deliver `docs/eligibility_caseB.md`.,"ops,intake",,Phase 1,P2
+Add CODEOWNERS and PR template,Create `.github/CODEOWNERS` and `.github/pull_request_template.md` based on dev standards.,"repo,docs",,Phase 1,P3
+Document local dev commands,"Add common commands to `README.md` and `scripts/setup.sh` notes (run, test, lint).","docs,devex",,Phase 1,P2
