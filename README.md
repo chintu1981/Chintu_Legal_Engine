@@ -2,6 +2,7 @@
 
 **Phase:** Setup • Hiring Kit • Repo Structure  
 **Date:** 2025-10-24
+![CI](https://github.com/chintu1981/Chintu_Legal_Engine/actions/workflows/ci.yml/badge.svg)
 
 This repository standardizes the Phase 1 deliverables:
 - Unified repo structure

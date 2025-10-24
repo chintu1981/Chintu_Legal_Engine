@@ -2,3 +2,8 @@ fastapi
 uvicorn
 pytest
 httpx
+sqlmodel
+sqlalchemy
+alembic
+pydantic-settings
+python-dotenv
